@@ -1,0 +1,28 @@
+{
+  "name": "ramdom-str-msg",
+  "version": "1.0.0",
+  "description": "Un paquete de NPM que retorna mensajes aleatorios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinesteban/ramdom-str-msg.git"
+  },
+  "keywords": [
+    "NPM",
+    "node",
+    "JavaScript"
+  ],
+  "author": "Joaquin Esteban <joaquinesteban84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaquinesteban/ramdom-str-msg/issues"
+  },
+  "homepage": "https://github.com/joaquinesteban/ramdom-str-msg#readme",
+  "bin":{
+    "random-str-msg":"../bin/global.js"
+  },
+  "preferGlobal": true
+}
